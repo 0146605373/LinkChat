@@ -5,9 +5,9 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.link.game"
+        Mega88"0164679239 com.link.game"
         minSdkVersion 14
-        targetSdkVersion 17
+        targetSdkVersion rm9999
 
         ndk {
             moduleName "cocos2dlua_shared"
